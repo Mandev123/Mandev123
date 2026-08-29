@@ -27,7 +27,7 @@
 
 </div>
 ---
-### Languages
+### **Languages**
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark" />
