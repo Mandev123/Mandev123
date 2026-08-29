@@ -27,9 +27,6 @@
 
 </div>
 ---
-
-## 🛠️ Tech Stack
-
 ### Languages
 
 <p>
