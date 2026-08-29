@@ -26,16 +26,6 @@
 <img src="https://raw.githubusercontent.com/Mandev123/Mandev123/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
----
-
-## 👨‍💻 About Me
-* 🎓 Pursuing **MCA**
-* 💻 Interested in **Software Development & Web Technologies**
-* 🧠 Improving my **problem-solving & development skills**
-* 🚀 Building projects and experimenting with new technologies
-* ⚡ Fun fact: `It works on my machine.`
-
 ---
 
 ## 🛠️ Tech Stack
