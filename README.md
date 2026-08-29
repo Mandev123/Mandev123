@@ -64,9 +64,6 @@
 
 </div>
 
-
-## 🚀 Currently
-
 ```javascript
 const mandev = {
   role: "Developer",
@@ -91,7 +88,7 @@ const mandev = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -108,8 +105,6 @@ const mandev = {
 ---
 
 <div align="center">
-
-### 💭 Developer Thought
 
 > `Build something you don't know how to build.`
 
