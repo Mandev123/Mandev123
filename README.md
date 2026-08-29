@@ -23,22 +23,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-```text
-┌──────────────────────────────────────────────┐
-│ > whoami                                     │
-│                                              │
-│ Mandev Kumar Sharma                          │
-│ MCA Student • Developer • Tech Enthusiast    │
-│                                              │
-│ > current_status                             │
-│ ████████████████████░░  Always Learning      │
-│                                              │
-│ > mindset                                    │
-│ Build → Break → Debug → Learn → Repeat      │
-└──────────────────────────────────────────────┘
-```
-
 * 🎓 Pursuing **MCA**
 * 💻 Interested in **Software Development & Web Technologies**
 * 🧠 Improving my **problem-solving & development skills**
