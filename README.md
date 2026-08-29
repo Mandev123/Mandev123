@@ -71,18 +71,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mandev123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -92,17 +80,6 @@
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandev123&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 ## 🚀 Currently
 
 ```javascript
